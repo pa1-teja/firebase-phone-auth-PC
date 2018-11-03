@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227547527880",
+    "firebase_url": "https://pearl-coaching.firebaseio.com",
+    "project_id": "pearl-coaching",
+    "storage_bucket": "pearl-coaching.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227547527880:android:65016f114972cf96",
+        "android_client_info": {
+          "package_name": "com.pearlcoaching.pearlcoaching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227547527880-t1m3kpa5ca98n1pblnhqdr6tbf27o4lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pearlcoaching.pearlcoaching",
+            "certificate_hash": "e10c46ac1be0bbdff3c5b33daa0df9c7c842def9"
+          }
+        },
+        {
+          "client_id": "227547527880-709mn22aq3te8h2ol440j2cbnt7drsg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBVUV2KjXFd_3u-qC7e5kC1y3QWTq59E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227547527880-709mn22aq3te8h2ol440j2cbnt7drsg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
